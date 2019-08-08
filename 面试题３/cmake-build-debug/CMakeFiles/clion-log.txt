@@ -1,0 +1,4 @@
+/home/lixujun/Downloads/clion-2019.1.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lixujun/CLionProjects/剑指offer/面试题３
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lixujun/CLionProjects/剑指offer/面试题３

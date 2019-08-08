@@ -1,0 +1,3 @@
+/home/lixujun/CLionProjects/剑指offer/面试题３/CMakeFiles/rebuild_cache.dir
+/home/lixujun/CLionProjects/剑指offer/面试题３/CMakeFiles/prac3.dir
+/home/lixujun/CLionProjects/剑指offer/面试题３/CMakeFiles/edit_cache.dir
